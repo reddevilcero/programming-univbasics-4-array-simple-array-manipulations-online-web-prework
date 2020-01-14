@@ -14,29 +14,29 @@ end
 def using_pop_args(array, args)
 
   array.pop(args)
-  
+
 end
 
 def using_shift(array)
 
   array.shift()
-  
+
 end
 
 def shift_with_args(array, args)
 
   array.shift(args)
-  
+
 end
 
 def using_concat(arr1, arr2)
 
   arr1.concat(arr2)
-  
+
 end
 
 def using_insert(array, element)
 
   array.insert(element, 4)
-  
+
 end
